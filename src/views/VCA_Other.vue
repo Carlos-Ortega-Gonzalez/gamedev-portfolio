@@ -52,6 +52,25 @@
         </tr>
       </table>      
 
+      <hr class="separator_middle">
+
+      <h3><strong>GAMEDEV PROCESS</strong></h3>
+                  
+      <table>
+        <tr>
+          <td>
+            <iframe class="youtube" src="https://www.youtube.com/embed/P-KGUhuLDgs" frameborder="0" allowfullscreen></iframe>
+          </td>
+          <td class="top">
+            <div class="side-text">In this video I offer a sneak peek at the development process I used in VCA, explaining the reasoning behind some of the design decisions I made.</div>
+            
+            <br>
+
+            <div class="side-text">Watch footage from several iterations of the game, including features that were cut out, and others that were refined and polished.</div>
+          </td>          
+        </tr>
+      </table>      
+
       <hr class="separator_bottom">
       
       <VCAMenu />

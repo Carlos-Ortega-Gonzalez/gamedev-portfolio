@@ -40,6 +40,10 @@ export default [
     </div>
    
     <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/zGbdvoWXcGk" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="paragraph center">
         <strong>MAIN FEATURES</strong>
     </div>
 
@@ -120,6 +124,7 @@ export default [
                         <ul style="margin-left: 50px;">
                             <li>Settings</li>
                             <li>Training Ground</li>
+                            <li>Gamedev process</li>
                         </ul>    
                     </td>
                 </tr>
