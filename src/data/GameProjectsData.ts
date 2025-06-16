@@ -4,7 +4,7 @@ export default [
     new ProjectData("VCA", "VEHICULAR COMBAT ARENA", "img/projects/VCA_Project.gif", `
     <center>
         <div class="paragraph center limited-width less-top-margin">
-            <strong>RELEASE DATE</strong>: FEB 2025 
+            <strong>RELEASE DATE</strong>: APR 2025 
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TEAM:</strong> I was the only developer in this project.
@@ -13,7 +13,7 @@ export default [
             I used some assets from the Unreal Marketplace (which I adapted for the game), as well as some free music from itch.io.
         </div>
         <div class="paragraph left limited-width">
-            <strong>DEVELOPMENT TIME:</strong> 11 months
+            <strong>DEVELOPMENT TIME:</strong> 14 months
         </div>
         <div class="paragraph left limited-width">
             <strong>DESCRIPTION:</strong> Single player game where you drive a configurable vehicle and participate in Arena style battles against AI enemies.
@@ -36,12 +36,9 @@ export default [
     <div><br></div>
     
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/feuBT5AA8gw" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/S40TaJwkZqU" frameborder="0" allowfullscreen></iframe>
     </div>
-    <div class="paragraph center">
-        <iframe frameborder="0" src="https://itch.io/embed/3254761?border_width=2&amp;bg_color=282828&amp;fg_color=ffffff&amp;link_color=b45f40&amp;border_color=333333" width="554" height="169"><a href="https://zoldargames.itch.io/vehicular-combat-arena">VEHICULAR COMBAT ARENA by Zoldar Games</a></iframe>
-    </div>
-
+   
     <div class="paragraph center">
         <strong>MAIN FEATURES</strong>
     </div>
@@ -129,6 +126,14 @@ export default [
             </table>
         </center>
     </div>
+    
+    <div class="paragraph center">
+        <strong>DOWNLOAD</strong>
+    </div>
+
+    <div class="paragraph center">        
+        <iframe frameborder="0" src="https://itch.io/embed/3254761?border_width=2&amp;bg_color=282828&amp;fg_color=ffffff&amp;link_color=b45f40&amp;border_color=333333" width="554" height="169"><a href="https://zoldargames.itch.io/vehicular-combat-arena">VEHICULAR COMBAT ARENA by Zoldar Games</a></iframe>
+    </div>
     `, "#B45F40", true, true),
     new ProjectData("RetroA", "RETRO ARCADE", "img/projects/RA_Project.gif", `
     <center>
@@ -161,9 +166,6 @@ export default [
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/HGlUW9EVMII" frameborder="0" allowfullscreen></iframe>
     </div>
-    <div class="paragraph center">
-        <iframe frameborder="0" src="https://itch.io/embed/2712297?border_width=2&amp;bg_color=282828&amp;fg_color=ffffff&amp;link_color=2b9793&amp;border_color=333333" width="552" height="167"><a href="https://zoldargames.itch.io/retro-arcade">Retro Arcade by Zoldar Games</a></iframe>
-        </div>
 
     <div class="paragraph center">
         <strong>MAIN FEATURES</strong>
@@ -221,6 +223,14 @@ export default [
                 </tr>
             </table>
         </center>
+    </div>
+
+    <div class="paragraph center">
+        <strong>DOWNLOAD</strong>
+    </div>
+
+    <div class="paragraph center">
+        <iframe frameborder="0" src="https://itch.io/embed/2712297?border_width=2&amp;bg_color=282828&amp;fg_color=ffffff&amp;link_color=2b9793&amp;border_color=333333" width="552" height="167"><a href="https://zoldargames.itch.io/retro-arcade">Retro Arcade by Zoldar Games</a></iframe>
     </div>
     `, "#2b9793"),
     new ProjectData("LTD", "LOOT THE DUNGEON", "img/projects/LTD_Project.gif", `
