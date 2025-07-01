@@ -1,8 +1,7 @@
 <template>
   <div class="header">
     <div class="nav-bar">
-      <router-link to="/">About me</router-link>
-      <router-link to="/zoldargames-projects">Zoldar Games</router-link>
+      <router-link to="/">Zoldar Games</router-link>
       <router-link to="/contact">Contact</router-link>
     </div>
     <hr class="separator">

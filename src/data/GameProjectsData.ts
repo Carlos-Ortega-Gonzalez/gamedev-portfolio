@@ -7,10 +7,18 @@ export default [
             <strong>RELEASE DATE</strong>: APR 2025 
         </div>
         <div class="paragraph left limited-width">
-            <strong>DEVELOPMENT TEAM:</strong> I was the only developer in this project.
+            <strong>DEVELOPMENT TEAM:</strong> solo project
         </div>        
         <div class="paragraph left limited-width less-top-margin">
-            I used some assets from the Unreal Marketplace (which I adapted for the game), as well as some free music from itch.io.
+            <strong>UE Marketplace (Fab) assets adapted and used:</strong>
+            <ul style="margin-top: 0px; margin-bottom: 5px;">
+                <li>Modular Low Poly Robots</li>
+                <li>Tokyo Stylized Environment</li>
+            </ul>
+            <strong>Music</strong> by Donarasi
+            <ul style="margin-top: 0px; margin-bottom: 5px;">
+                <li>https://donarasi.itch.io</li>
+            </ul>
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TIME:</strong> 14 months
@@ -47,19 +55,15 @@ export default [
         <strong>MAIN FEATURES</strong>
     </div>
 
-    <div class="paragraph center">
-        <strong>Click on the headers</strong> to get additional information on the feature, with videos.
-    </div>
-
     <div class="paragraph">
         <center>
             <table>
                 <tr>
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-vehicles" class="header-link">VEHICLES<i class="fa-solid fa-link link"></i></a>
+                        VEHICLES
                     </th>
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-gameplay" class="header-link">GAMEPLAY ELEMENTS<i class="fa-solid fa-link link"></i></a>
+                        GAMEPLAY ELEMENTS
                     </th>                    
                 </tr>
                 <tr>
@@ -68,22 +72,24 @@ export default [
                             <li>Vehicle Configuration</li>
                             <li>Vehicle stats</li>
                             <li>Combat</li>
-                        </ul>
+                        </ul>                        
+                        <p><center><a href="/#/vca-vehicles" class="header-link">Info & Videos</a></center></p>
                     </td>
                     <td style="min-width: 350px; background-color: #282828; line-height: 1em;">
                         <ul style="margin-left: 50px;">
                             <li>Data Points</li>
                             <li>Ammo & health pickups</li>
                             <li>Gears (currency)</li>
-                        </ul>    
+                        </ul>
+                        <p><center><a href="/#/vca-gameplay" class="header-link">Info & Videos</a></center></p>
                     </td>
                 </tr>
                 <tr>
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-enemy-ai" class="header-link">ENEMY AI<i class="fa-solid fa-link link"></i></a>
+                        ENEMY AI
                     </th>
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-internals" class="header-link">INTERNALS<i class="fa-solid fa-link link"></i></a>
+                        INTERNALS
                     </th>
                 </tr>
                 <tr>
@@ -94,7 +100,8 @@ export default [
                             <li>Behavior Trees</li>
                             <li>State Machines</li>
                             <li>EQS</li>
-                        </ul>    
+                        </ul>
+                        <p><center><a href="/#/vca-enemy-ai" class="header-link">Info & Videos</a></center></p>
                     </td>
                     <td style="min-width: 350px; background-color: #282828; line-height: 1em;">
                         <ul style="margin-left: 50px;">
@@ -103,14 +110,15 @@ export default [
                             <li>Save system</li>
                             <li>Performance</li>
                         </ul>
+                        <p><center><a href="/#/vca-internals" class="header-link">Info & Videos</a></center></p>
                     </td>
                 </tr>
                 <tr>
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-ux" class="header-link">USER EXPERIENCE<i class="fa-solid fa-link link"></i></a>
+                        USER EXPERIENCE
                     </th>                    
                     <th style="min-width: 350px; background-color: #B45F40;">
-                        <a href="/#/vca-other" class="header-link">OTHER<i class="fa-solid fa-link link"></i></a>
+                        OTHER
                     </th>
                 </tr>
                 <tr>
@@ -119,13 +127,15 @@ export default [
                             <li>Enhanced input</li>
                             <li>User Interface</li>
                         </ul>
+                        <p><center><a href="/#/vca-ux" class="header-link">Info & Videos</a></center></p>
                     </td>
                     <td style="min-width: 350px; background-color: #282828; line-height: 1em;">
                         <ul style="margin-left: 50px;">
                             <li>Settings</li>
                             <li>Training Ground</li>
                             <li>Gamedev process</li>
-                        </ul>    
+                        </ul>
+                        <p><center><a href="/#/vca-other" class="header-link">Info & Videos</a></center></p>
                     </td>
                 </tr>
             </table>
@@ -146,10 +156,17 @@ export default [
             <strong>RELEASE DATE</strong>: MAY 2024 
         </div>
         <div class="paragraph left limited-width">
-            <strong>DEVELOPMENT TEAM:</strong> I was the only developer in this project.
-        </div>        
+            <strong>DEVELOPMENT TEAM:</strong> solo project
+        </div>
         <div class="paragraph left limited-width less-top-margin">
-            I used free assets and music from itch.io (which I adapted for the game).
+            <strong>itch.io assets adapted and used:</strong>
+            <ul style="margin-top: 0px; margin-bottom: 5px;">
+                <li>https://pixel-carvel.itch.io/</li>
+            </ul>
+            <strong>Music</strong> by Jonathan So
+            <ul style="margin-top: 0px; margin-bottom: 5px;">
+                <li>https://jonathan-so.itch.io/</li>
+            </ul>
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TIME:</strong> 1 month
@@ -176,19 +193,15 @@ export default [
         <strong>MAIN FEATURES</strong>
     </div>
 
-    <div class="paragraph center">
-        <strong>Click on the headers</strong> to get additional information on the feature, with videos.
-    </div>
-
     <div class="paragraph">
         <center>
             <table>
                 <tr>
                     <th style="min-width: 350px; background-color: #2b9793;">
-                        <a href="/#/ra-2d-setup-in-unreal" class="header-link">2D SETUP IN UNREAL<i class="fa-solid fa-link link"></i></a>
+                        2D SETUP IN UNREAL
                     </th>
                     <th style="min-width: 350px; background-color: #2b9793;">
-                        <a href="/#/ra-gameplay" class="header-link">GAMEPLAY ELEMENTS<i class="fa-solid fa-link link"></i></a>
+                        GAMEPLAY ELEMENTS
                     </th>                    
                 </tr>
                 <tr>
@@ -197,20 +210,22 @@ export default [
                             <li>Level Setup</li>
                             <li>Pawn Configuration</li>
                         </ul>
+                        <p><center><a href="/#/ra-2d-setup-in-unreal" class="header-link">Info & Videos</a></center></p>
                     </td>
                     <td style="min-width: 350px; background-color: #282828; line-height: 1em;">
                         <ul style="margin-left: 70px;">
                             <li>PowerUps</li>
                             <li>Asteroids</li>                            
-                        </ul>    
+                        </ul>
+                        <p><center><a href="/#/ra-gameplay" class="header-link">Info & Videos</a></center></p>
                     </td>
                 </tr>
                 <tr>
                     <th style="min-width: 350px; background-color: #2b9793;">
-                        <a href="/#/ra-enemy-ai" class="header-link">ENEMY AI<i class="fa-solid fa-link link"></i></a>
+                        ENEMY AI
                     </th>
                     <th style="min-width: 350px; background-color: #2b9793;">
-                        <a href="/#/ra-internals" class="header-link">INTERNALS<i class="fa-solid fa-link link"></i></a>
+                        INTERNALS
                     </th>
                 </tr>
                 <tr>
@@ -218,12 +233,14 @@ export default [
                         <ul style="margin-left: 50px;">
                             <li>Behavior Trees - Enemies</li>                            
                             <li>Behavior Trees - Bosses</li>
-                        </ul>    
+                        </ul>
+                        <p><center><a href="/#/ra-enemy-ai" class="header-link">Info & Videos</a></center></p>
                     </td>
                     <td style="min-width: 350px; background-color: #282828; line-height: 1em;">
                         <ul style="margin-left: 70px;">
                             <li>Subsystems</li>
                         </ul>
+                        <p><center><a href="/#/ra-internals" class="header-link">Info & Videos</a></center></p>
                     </td>
                 </tr>
             </table>
@@ -241,16 +258,16 @@ export default [
     new ProjectData("LTD", "LOOT THE DUNGEON", "img/projects/LTD_Project.gif", `
     <center>
         <div class="paragraph center limited-width less-top-margin">
-            <strong>RELEASE DATE</strong>: Development still in progress
+            <strong>RELEASE DATE</strong>: Development in progress
         </div>
         <div class="paragraph left limited-width">
-            <strong>DEVELOPMENT TEAM:</strong> I am the only developer in this project.
+            <strong>DEVELOPMENT TEAM:</strong> solo project
         </div>        
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TIME:</strong> Coming soon!
         </div>
         <div class="paragraph left limited-width">
-            <strong>DESCRIPTION:</strong> Single player game where you loot a dungeon and confront the evil Wizard within.
+            <strong>DESCRIPTION:</strong> Single player game where you explore a dungeon gathering loot, while confronting an evil Wizard and their undead minions.
         </div>
     </center>    
 

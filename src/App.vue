@@ -73,17 +73,19 @@ a:hover, .router-link-exact-active {
 }
 
 a.header-link {
-  color: #f8f8f8;
-  text-decoration: none;
+  color:  @linkTextColor;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
   opacity: 1;
 }
 
 a.header-link:hover {
-  color: #f8f8f8;
+  color: @linkTextColor;
   text-decoration: underline;
   text-underline-offset: 3px;
-  text-decoration-thickness: 2px;
-  opacity: 1;
+  text-decoration-thickness: 1px;
+  opacity: 0.75;
 }
 
 h2 {
