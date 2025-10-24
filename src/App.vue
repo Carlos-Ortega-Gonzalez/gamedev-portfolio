@@ -30,7 +30,8 @@ export default Vue.extend({
 Helpers.preloadImages([
   "img/projects/VCA_Project.gif",
   "img/projects/RA_Project.gif",
-  "img/projects/LTD_Project.gif"
+  "img/projects/WIP.png",
+  "img/projects/DB_Project.gif"
 ]);
 
 </script>

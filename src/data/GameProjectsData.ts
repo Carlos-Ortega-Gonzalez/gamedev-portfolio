@@ -15,10 +15,7 @@ export default [
                 <li>Modular Low Poly Robots</li>
                 <li>Tokyo Stylized Environment</li>
             </ul>
-            <strong>Music</strong> by Donarasi
-            <ul style="margin-top: 0px; margin-bottom: 5px;">
-                <li>https://donarasi.itch.io</li>
-            </ul>
+            <strong>Music</strong> by Donarasi.            
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TIME:</strong> 14 months
@@ -159,14 +156,10 @@ export default [
             <strong>DEVELOPMENT TEAM:</strong> solo project
         </div>
         <div class="paragraph left limited-width less-top-margin">
-            <strong>itch.io assets adapted and used:</strong>
-            <ul style="margin-top: 0px; margin-bottom: 5px;">
-                <li>https://pixel-carvel.itch.io/</li>
-            </ul>
-            <strong>Music</strong> by Jonathan So
-            <ul style="margin-top: 0px; margin-bottom: 5px;">
-                <li>https://jonathan-so.itch.io/</li>
-            </ul>
+            <strong>Base assets by </strong><a href="https://pixel-carvel.itch.io" class="header-link">Pixel-Carvel</a>
+        </div>
+        <div class="paragraph left limited-width less-top-margin">
+            <strong>Music by </strong> <a href="https://jonathan-so.itch.io" class="header-link">Jonathan So</a>
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TIME:</strong> 1 month
@@ -255,19 +248,19 @@ export default [
         <iframe frameborder="0" src="https://itch.io/embed/2712297?border_width=2&amp;bg_color=282828&amp;fg_color=ffffff&amp;link_color=2b9793&amp;border_color=333333" width="552" height="167"><a href="https://zoldargames.itch.io/retro-arcade">Retro Arcade by Zoldar Games</a></iframe>
     </div>
     `, "#2b9793"),
-    new ProjectData("LTD", "LOOT THE DUNGEON", "img/projects/LTD_Project.gif", `
+    new ProjectData("UNTITLED", "UNTITLED PROJECT", "img/projects/WIP.png", `
     <center>
         <div class="paragraph center limited-width less-top-margin">
-            <strong>RELEASE DATE</strong>: Development in progress
+            <strong>RELEASE DATE</strong>: In Pre-production
         </div>
         <div class="paragraph left limited-width">
             <strong>DEVELOPMENT TEAM:</strong> solo project
         </div>        
         <div class="paragraph left limited-width">
-            <strong>DEVELOPMENT TIME:</strong> Coming soon!
+            <strong>DEVELOPMENT TIME:</strong> WIP
         </div>
         <div class="paragraph left limited-width">
-            <strong>DESCRIPTION:</strong> Single player game where you explore a dungeon gathering loot, while confronting an evil Wizard and their undead minions.
+            <strong>DESCRIPTION:</strong> On rails spaceship shooter.
         </div>
     </center>    
 
@@ -275,10 +268,6 @@ export default [
         <div class="label">Unreal Engine 5</div>    
         <div class="label">C++</div>
         <div class="label">Blueprints</div>        
-        <div class="label">Behavior Tree</div>
-        <div class="label">CommonUI</div>
-        <div class="label">UMG</div>
-        <div class="label">Niagara</div>
     </div>
 
     <div class="paragraph center">

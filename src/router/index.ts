@@ -10,6 +10,11 @@ const routes: Array<RouteConfig> = [
     component: () => import(/* webpackChunkName: "about" */ '../views/GameProjects.vue')
   },
   {
+    path: '/Tools',
+    name: 'Tools',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Tools.vue')
+  },
+  {
     path: '/contact',
     name: 'Contact',
     component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
@@ -63,6 +68,21 @@ const routes: Array<RouteConfig> = [
     path: '/ra-internals',
     name: 'RA Internals',
     component: () => import(/* webpackChunkName: "about" */ '../views/RA_Internals.vue')
+  },
+  {
+    path: '/db-setup',
+    name: 'DB Project Setup',
+    component: () => import(/* webpackChunkName: "about" */ '../views/DB_ProjectSetup.vue')
+  },
+  {
+    path: '/db-tools',
+    name: 'DB Editor Tools',
+    component: () => import(/* webpackChunkName: "about" */ '../views/DB_EditorTools.vue')
+  },
+  {
+    path: '/db-internals',
+    name: 'DB Internals',
+    component: () => import(/* webpackChunkName: "about" */ '../views/DB_Internals.vue')
   },
   {
     path: '/404',
